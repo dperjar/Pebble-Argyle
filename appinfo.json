@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Dan Perjar",
+    "longName": "Argyle",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/argyle1.png",
+                "name": "ARGYLE",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Argyle",
+    "uuid": "1065493f-c8f2-4c2c-9181-11e4550b34d9",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
